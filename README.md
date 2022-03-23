@@ -1,7 +1,5 @@
 # Tic Tac Toe using ReactJS
 
-Link of the app - https://tic-tac-toe-using-react.herokuapp.com/
-
 ## Available Scripts
 
 In the project directory, you can run:
